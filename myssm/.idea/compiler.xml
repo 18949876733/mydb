@@ -13,7 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="myssm" target="1.8" />
+      <module name="myssm" target="1.5" />
       <module name="myssm_01_domain" target="1.8" />
       <module name="myssm_01_mapper" target="1.8" />
       <module name="myssm_01_service" target="1.8" />
