@@ -7,11 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="myssm_01_domain" />
+        <module name="myssm_01_mapper" />
+        <module name="myssm_01_service" />
+        <module name="myssm_01_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="myssm" target="1.5" />
-      <module name="myssm_01_domain" target="1.5" />
+      <module name="myssm" target="1.8" />
+      <module name="myssm_01_domain" target="1.8" />
+      <module name="myssm_01_mapper" target="1.8" />
+      <module name="myssm_01_service" target="1.8" />
+      <module name="myssm_01_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
